@@ -1,19 +1,24 @@
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+# 🙋🏻‍♀️ Hi, I'm Andrea!
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="250">
 
-<h1>🙋🏻 Hi there!</h1> 
+I'm a **Frontend Engineer** based in **Barcelona**, focused on building high-performing, accessible, and user-centric web applications.
 
-My name is <strong>Andrea</strong> and I'm from Spain!
-<br/>
-Currently working on front-end projects with <strong>HTML</strong>, <strong>SCSS</strong>, <strong>TypeScript</strong>, <strong>Angular</strong> and <strong>NextJS</strong>.
-<br/>
-<br/>
-<h2>⚡ Technologies</h2>
-<ul>
-  <li>Angular 9+</li>
-  <li>NextJS</li>
-  <li>Ionic and Capacitor</li>
-  <li>Storybook</li>
-  <li>Testing with Jest | Jasmine | Cypress | testing-library </li>
-  <li>HTML5</li>
-</ul>
+### 💻 What I Do
+- **Frontend**: Focused on **Next.js**, **React**.
+- **Web Advocate**: Passionate about **Web Performance**, **Accessibility**, and **Modern Testing Strategies**.
+- **Mentor**: Committed to empowering women in tech through mentorship and career growth.
 
+
+### 🚀 Tech Stack
+
+| **Category**               | **Technologies**                                                                                                                                                          |
+|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Frontend**               | Next.js, React, Angular                                                                                                                                                   |
+| **State Management**       | Jotai, React Query, RxJS                                                                                                                                                  |
+| **Testing & QA**           | Vitest, Testing Library, Playwright, Stryker                                                                                                                              |
+| **Infrastructure & Tools** | Storybook, ESLint, Sentry, Vercel, AWS                                                                                                                                         |
+| **Styling**                | SCSS, Tailwind, HTML5                                                                                                                                                         |
+---
+
+### ✨ More About Me
+🎮 Gaming | 🏋️‍♀️ Fitness | 🧠 Self-Development | 🧁 Baking | 📝 **[Personal Blog](https://snuffy-blog.vercel.app/)**
